@@ -9,8 +9,8 @@
 ## 19.XX
 
 ### 19.30
-- [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.30%20%7C%20Offsets).
+- [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.30%20%7C%20Offsets). [All offsets]
 - [Sigs](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.30%20%7C%20Sigs).
-- [BONE Ids](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.30%20%7C%20Bone%20ID's).
+- [BONE Ids](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.30%20%7C%20Bone%20ID's). [.cpp]
 
 ---------------------
