@@ -1,3 +1,5 @@
+if you like offsets check (this)[https://github.com/ofDataa/offsets]
+
 # fortnite-offset-archive
 ```diff
 - !! THIS IS NOT UPDATED OFTEN !! 
