@@ -18,6 +18,8 @@ if you like offsets check [this](https://github.com/ofDataa/offsets)
 ### 19.40 (New Offsets)
 - [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/19.xx/19.40%20%7C%20Offsets). [All offsets]
 
+## 20.XX
+
 ### 20.20 (New Offsets)
 - [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/20.xx/20.20). [All offsets]
 
