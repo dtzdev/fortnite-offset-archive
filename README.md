@@ -23,4 +23,10 @@ if you like offsets check [this](https://github.com/ofDataa/offsets)
 ### 20.20 (New Offsets)
 - [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/20.xx/20.20). [All offsets]
 
+## 21.XX
+
+### 21.00 (New Offsets 6 New Sigs)
+- [Offsets](https://github.com/ofDataa/fortnite-offset-archive/blob/main/21.xx/21.00%20%7C%20Offsets). [All offsets]
+- [Sigs](https://github.com/ofDataa/fortnite-offset-archive/blob/main/21.xx/21.00%20%7C%20Sigs). [Added curl & spread sigs]
+
 ---------------------
